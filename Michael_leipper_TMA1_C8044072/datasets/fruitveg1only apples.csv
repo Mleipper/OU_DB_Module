@@ -1,0 +1,391 @@
+Column 1,Column 2,Quality,Column 4,Column 5,Column 6,Column 7,Column 8,Column 9,Column 10,Column 11,Column 12,Column 13,Column 14,Column 15,Column 16
+﻿2004,,Quality,Units,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+Cooking Apples,Bramley’s Seedling,1st,£/kg,0.68,0.65,0.66,0.68,0.76,0.82,1.10,0.65,0.51,0.48,0.52,0.52
+,Bramley’s Seedling,2nd,£/kg,0.44,0.45,0.39,0.42,0.54,0.58,0.66,0.49,0.37,0.33,0.36,0.37
+,Bramley’s Seedling,Ave,£/kg,0.59,0.56,0.51,0.55,0.66,0.70,1.03,0.64,0.49,0.44,0.47,0.47
+Dessert Apples,Cox’s Orange-group,1st,£/kg,0.62,0.63,0.60,0.58,,,,,0.68,0.51,0.53,0.58
+,Cox’s Orange-group,2nd,£/kg,0.40,0.40,0.40,0.42,,,,,0.39,0.33,0.30,0.33
+,Cox’s Orange-group,Ave,£/kg,0.55,0.54,0.50,0.51,,,,,0.64,0.45,0.46,0.50
+,Discovery,1st,£/kg,,,,,,,0.75,0.51,0.37,,,
+,Discovery,2nd,£/kg,,,,,,,0.66,0.33,0.25,,,
+,Discovery,Ave,£/kg,,,,,,,0.74,0.48,0.32,,,
+,Egremont Russet,1st,£/kg,0.57,0.58,0.50,,,,,0.83,0.64,0.59,0.61,0.64
+,Egremont Russet,2nd,£/kg,0.44,0.48,,,,,,0.83,0.46,0.48,0.46,0.45
+,Egremont Russet,Ave,£/kg,0.54,0.55,,,,,,0.83,0.63,0.58,0.58,0.59
+,Spartan,1st,£/kg,0.33,,,,,,,,0.49,0.46,0.44,0.51
+,Spartan,2nd,£/kg,,,,,,,,,,0.34,0.30,0.28
+,Spartan,Ave,£/kg,,,,,,,,,,0.45,0.42,0.31
+,Worcester Pearmain,1st,£/kg,,,,,,,,,0.49,0.46,,
+,Worcester Pearmain,2nd,£/kg,,,,,,,,0.55,0.34,0.37,,
+,Worcester Pearmain,Ave,£/kg,,,,,,,,,0.48,0.40,,
+,Red Pippin,1st,£/kg,,0.46,,,,,,,,0.47,,
+,Red Pippin,2nd,£/kg,,,,0.22,,,,,,,,
+,Red Pippin,Ave,£/kg,,,,,,,,,,,,
+,Gala,1st,£/kg,0.52,0.52,0.50,0.48,,,,,0.50,0.45,0.45,0.48
+,Gala,2nd,£/kg,0.42,0.40,0.37,0.44,,,,,,0.34,0.30,0.29
+,Gala,Ave,£/kg,0.51,0.46,0.44,0.47,,,,,,0.44,0.43,0.44
+,Other Early Season,-,£/kg,,,,,,,0.50,0.30,0.55,0.51,0.44,
+,Other Mid Season,-,£/kg,,0.57,,,,,,,0.51,0.44,0.55,
+,Other Late Season,-,£/kg,0.46,0.42,0.49,0.44,,,,,,0.44,0.51,0.49
+,Jonogold – group,1st,£/kg,0.50,0.39,0.49,0.41,0.39,0.36,0.49,0.37,0.33,0.40,0.35,0.44
+,Jonogold – group,2nd,£/kg,,0.50,,,,,0.42,,,,,0.39
+,Jonogold – group,Ave,£/kg,,0.41,,,,,0.46,,,,,0.43
+,Katy,1st,£/kg,,,,,,,,0.58,0.42,,,
+,Katy,2nd,£/kg,,,,,,,,0.44,0.41,,,
+,Katy,Ave,£/kg,,,,,,,,0.51,0.42,,,
+2005,,Quality,Units,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+Cooking Apples,Bramley’s Seedling,1st,£/kg,0.51,0.50,0.53,0.58,0.59,0.54,0.55,0.58,0.49,0.48,0.50,0.53
+,Bramley’s Seedling,2nd,£/kg,0.36,0.33,0.32,0.36,0.39,0.36,0.37,0.41,0.31,0.31,0.32,0.34
+,Bramley’s Seedling,Ave,£/kg,0.46,0.44,0.42,0.46,0.47,0.43,0.46,0.53,0.45,0.44,0.45,0.49
+Dessert Apples,Cox’s Orange-group,1st,£/kg,0.56,0.59,0.53,0.48,,,,0.75,0.62,0.48,0.51,0.57
+,Cox’s Orange-group,2nd,£/kg,0.32,0.33,0.30,0.27,,,,,0.44,0.34,0.33,0.38
+,Cox’s Orange-group,Ave,£/kg,0.49,0.53,0.40,0.30,,,,,0.57,0.45,0.47,0.52
+,Discovery,1st,£/kg,,,,,,,0.83,0.48,0.38,,,
+,Discovery,2nd,£/kg,,,,,,,,0.32,0.25,,,
+,Discovery,Ave,£/kg,,,,,,,,0.45,0.30,,,
+,Egremont Russet,1st,£/kg,0.58,0.52,0.48,,,,,0.66,0.63,0.52,0.67,0.68
+,Egremont Russet,2nd,£/kg,0.35,0.32,0.29,,,,,,0.54,0.45,0.46,0.45
+,Egremont Russet,Ave,£/kg,0.54,0.47,0.42,,,,,,0.62,0.50,0.65,0.65
+,Spartan,1st,£/kg,0.44,,,,,,,,0.28,0.44,0.43,0.50
+,Spartan,2nd,£/kg,,,,,,,,,,0.34,0.32,
+,Spartan,Ave,£/kg,,,,,,,,,,0.43,0.42,
+,Worcester Pearmain,1st,£/kg,,,,,,,,0.47,0.41,0.46,,
+,Worcester Pearmain,2nd,£/kg,,,,,,,,0.50,0.39,0.30,,
+,Worcester Pearmain,Ave,£/kg,,,,,,,,0.47,0.41,0.43,,
+,Red Pippin,1st,£/kg,,,,,,,,,0.62,0.44,,
+,Red Pippin,2nd,£/kg,,,,,,,,,,,,
+,Red Pippin,Ave,£/kg,,,,,,,,,,,,
+,Gala,1st,£/kg,0.41,0.43,0.44,0.40,,,,,0.40,0.45,0.44,0.45
+,Gala,2nd,£/kg,0.27,0.26,0.28,0.26,0.26,,,,0.51,0.40,0.32,0.26
+,Gala,Ave,£/kg,0.39,0.40,0.37,0.29,,,,,0.40,0.44,0.42,0.39
+,Other Early Season,-,£/kg,,,,,,,,0.53,0.50,0.47,,
+,Other Mid Season,-,£/kg,,0.39,,,,,,,,0.44,,
+,Other Late Season,-,£/kg,0.44,0.48,0.48,0.47,0.43,,,,,0.37,0.43,0.51
+,Jonogold – group,1st,£/kg,0.44,0.48,0.45,0.48,0.46,0.44,0.44,,,0.45,0.41,0.39
+,Jonogold – group,2nd,£/kg,,0.29,,0.36,0.33,0.35,,,,0.32,0.33,
+,Jonogold – group,Ave,£/kg,,0.42,,0.47,0.45,0.38,,,,0.43,0.40,
+2006,,Quality,Units,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+Cooking Apples,Bramley’s Seedling,1st,£/kg,0.53,0.52,0.55,0.64,0.68,0.65,0.65,0.60,0.52,0.50,0.53,0.54
+,Bramley’s Seedling,2nd,£/kg,0.36,0.38,0.41,0.44,0.42,0.44,0.43,0.38,0.39,0.30,0.34,0.38
+,Bramley’s Seedling,Ave,£/kg,0.49,0.48,0.50,0.55,0.55,0.57,0.55,0.53,0.49,0.45,0.48,0.51
+Dessert Apples,Cox’s Orange-group,1st,£/kg,0.56,0.50,0.56,0.70,,,,1.04,0.67,0.52,0.55,0.58
+,Cox’s Orange-group,2nd,£/kg,0.36,0.36,0.38,0.46,,,,,0.50,0.35,0.37,0.37
+,Cox’s Orange-group,Ave,£/kg,0.51,0.46,0.50,0.61,,,,,0.64,0.46,0.49,0.51
+,Discovery,1st,£/kg,,,,,,,0.73,0.54,0.44,,,
+,Discovery,2nd,£/kg,,,,,,,,0.39,0.33,,,
+,Discovery,Ave,£/kg,,,,,,,,0.51,0.39,,,
+,Egremont Russet,1st,£/kg,0.60,0.56,0.60,0.55,0.49,,,,0.66,0.59,0.61,0.69
+,Egremont Russet,2nd,£/kg,0.39,0.39,0.43,,,,,,0.56,0.48,0.41,0.44
+,Egremont Russet,Ave,£/kg,0.52,0.51,0.56,,,,,,0.64,0.57,0.58,0.64
+,Spartan,1st,£/kg,,,,,,,,,0.56,0.51,0.47,
+,Spartan,2nd,£/kg,,,,,,,,,0.44,0.39,0.33,
+,Spartan,Ave,£/kg,,,,,,,,,0.56,0.49,0.46,
+,Worcester Pearmain,1st,£/kg,,,,,,,,0.58,0.53,,,
+,Worcester Pearmain,2nd,£/kg,,,,,,,,,0.39,,,
+,Worcester Pearmain,Ave,£/kg,,,,,,,,,0.51,,,
+,Red Pippin,1st,£/kg,,,,,,,,,,0.42,0.48,
+,Red Pippin,2nd,£/kg,,,,,,,,,,,,
+,Red Pippin,Ave,£/kg,,,,,,,,,,,,
+,Gala,1st,£/kg,0.49,0.44,0.45,0.46,,,,,0.66,0.51,0.53,0.51
+,Gala,2nd,£/kg,0.32,0.34,,,,,,,0.48,0.34,0.35,0.38
+,Gala,Ave,£/kg,0.43,0.43,,,,,,,0.65,0.49,0.50,0.49
+,Other Early Season,-,£/kg,,,,,,,,0.48,0.45,,,
+,Other Mid Season,-,£/kg,,,,,,,,0.61,0.65,0.44,0.44,0.49
+,Other Late Season,-,£/kg,0.46,0.44,0.44,0.49,0.42,,,,,0.49,0.58,0.55
+,Jonogold – group,1st,£/kg,0.36,0.43,0.48,0.47,0.53,0.60,,,0.61,0.45,0.44,0.47
+,Jonogold – group,2nd,£/kg,0.28,0.38,0.37,,0.33,0.34,,,,,,
+,Jonogold – group,Ave,£/kg,0.36,0.43,0.44,,0.50,0.51,,,,,,
+2007,,Quality,Units,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+Cooking Apples,Bramley’s Seedling,1st,£/kg,0.53,0.55,0.53,0.65,0.65,0.80,0.90,0.69,0.57,0.58,0.60,0.62
+,Bramley’s Seedling,2nd,£/kg,0.36,0.38,0.35,0.46,0.49,0.60,0.65,0.52,0.42,0.35,0.35,0.40
+,Bramley’s Seedling,Ave,£/kg,0.49,0.50,0.47,0.60,0.61,0.73,0.81,0.64,0.54,0.52,0.53,0.57
+Dessert Apples,Cox’s Orange-group,1st,£/kg,0.60,0.70,0.73,0.79,,,,0.94,0.66,0.62,0.64,0.64
+,Cox’s Orange-group,2nd,£/kg,0.37,0.42,0.35,0.54,,,,0.77,0.42,0.40,0.39,0.38
+,Cox’s Orange-group,Ave,£/kg,0.54,0.65,0.67,0.70,,,,0.93,0.61,0.56,0.58,0.58
+,Discovery,1st,£/kg,,,,,,,0.76,0.52,,,,
+,Discovery,2nd,£/kg,,,,,,,0.52,0.38,0.30,,,
+,Discovery,Ave,£/kg,,,,,,,0.73,0.48,,,,
+,Egremont Russet,1st,£/kg,0.61,,,,,,,0.81,0.74,0.75,0.70,0.67
+,Egremont Russet,2nd,£/kg,0.39,,,,,,,,0.48,0.33,0.50,0.50
+,Egremont Russet,Ave,£/kg,0.60,,,,,,,,0.71,0.74,0.68,0.66
+,Spartan,1st,£/kg,,,,,,,,,0.49,0.49,0.54,0.48
+,Spartan,2nd,£/kg,,,,,,,,,0.28,0.33,,
+,Spartan,Ave,£/kg,,,,,,,,,0.48,0.48,,
+,Worcester Pearmain,1st,£/kg,,,,,,,,0.61,0.56,0.48,,
+,Worcester Pearmain,2nd,£/kg,,,,,,,,,0.40,0.33,,
+,Worcester Pearmain,Ave,£/kg,,,,,,,,,0.53,0.47,,
+,Red Pippin,1st,£/kg,,,,,,,,,0.66,0.44,0.71,
+,Red Pippin,2nd,£/kg,,,,,,,,,,,,0.39
+,Red Pippin,Ave,£/kg,,,,,,,,,,,,
+,Gala,1st,£/kg,0.55,0.53,0.67,,,,,,0.61,0.55,0.54,0.50
+,Gala,2nd,£/kg,0.40,0.36,0.60,,,,,,,0.40,0.35,0.33
+,Gala,Ave,£/kg,0.53,0.51,0.66,,,,,,,0.54,0.50,0.46
+,Other Early Season,-,£/kg,,,,,,,0.66,0.60,0.46,0.49,,
+,Other Mid Season,-,£/kg,0.51,,,,,,,,0.49,0.54,0.51,0.53
+,Other Late Season,-,£/kg,0.53,0.54,0.51,0.47,0.48,,,,,0.59,0.65,0.48
+,Jonogold – group,1st,£/kg,,,,,,,,,,0.52,0.50,0.54
+,Jonogold – group,2nd,£/kg,,,,,,,,,,0.34,0.34,
+,Jonogold – group,Ave,£/kg,,,,,,,,,,0.52,0.47,
+(new item this year),Red,2nd,£/kg,0.33,0.29,0.30,0.39,0.40,0.35,,0.36,0.31,0.27,0.26,0.23
+,Red,Ave,£/kg,0.39,0.40,0.41,0.46,0.47,0.41,,0.41,0.42,0.37,0.35,0.24
+(new item this year),Leaf - Loose/bunches,2nd,£/kg,,,,,0.70,0.60,0.60,,0.43,,,
+,Leaf - Loose/bunches,Ave,£/kg,,,,,0.92,0.69,0.65,,0.59,,,
+2008,,Quality,Units,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+Cooking Apples,Bramley’s Seedling,1st,£/kg,0.72,0.73,0.74,0.88,1.01,1.03,1.03,0.81,0.66,0.61,0.65,0.69
+,Bramley’s Seedling,2nd,£/kg,0.51,0.52,0.57,0.63,0.71,0.76,0.70,0.61,0.48,0.43,0.42,0.45
+,Bramley’s Seedling,Ave,£/kg,0.68,0.68,0.69,0.80,0.91,0.92,0.93,0.78,0.64,0.58,0.58,0.63
+Dessert Apples,Cox’s Orange-group,1st,£/kg,0.70,0.67,0.72,0.87,,,,1.09,0.83,0.65,0.63,0.69
+,Cox’s Orange-group,2nd,£/kg,0.45,0.43,0.52,0.50,,,,,0.59,0.42,0.37,0.43
+,Cox’s Orange-group,Ave,£/kg,0.65,0.60,0.67,0.74,,,,,0.81,0.60,0.57,0.63
+,Discovery,1st,£/kg,,,,,,,1.03,0.68,0.46,,,
+,Discovery,2nd,£/kg,,,,,,,,0.43,0.36,,,
+,Discovery,Ave,£/kg,,,,,,,,0.64,0.44,,,
+,Egremont Russet,1st,£/kg,0.77,0.90,0.80,0.88,,,,,0.96,0.72,0.78,0.82
+,Egremont Russet,2nd,£/kg,0.51,,0.44,0.43,,,,,,0.50,0.53,0.53
+,Egremont Russet,Ave,£/kg,0.75,,0.77,0.48,,,,,,0.70,0.74,0.75
+,Spartan,1st,£/kg,0.39,,,,,,,,,0.61,0.62,0.66
+,Spartan,2nd,£/kg,,,,,,,,,,0.34,0.37,0.36
+,Spartan,Ave,£/kg,,,,,,,,,,0.59,0.54,0.60
+,Worcester Pearmain,1st,£/kg,,,,,,,,,0.69,0.63,,
+,Worcester Pearmain,2nd,£/kg,,,,,,,,,0.50,0.43,,
+,Worcester Pearmain,Ave,£/kg,,,,,,,,,0.67,0.52,,
+,Red Pippin,1st,£/kg,,,,,,,,,0.61,0.48,0.49,
+,Red Pippin,2nd,£/kg,,,,,,,,,,0.34,,
+,Red Pippin,Ave,£/kg,,,,,,,,,,0.47,,
+,Gala,1st,£/kg,0.54,0.57,0.62,0.54,,,,,0.64,0.59,0.54,0.64
+,Gala,2nd,£/kg,0.40,0.55,0.43,0.44,,,,,,,0.42,0.43
+,Gala,Ave,£/kg,0.51,0.57,0.55,0.49,,,,,,,0.53,0.59
+,Other Early Season,-,£/kg,,,,,,,,0.60,0.55,0.50,,
+,Other Mid Season,-,£/kg,0.58,0.62,0.61,,,,,,0.67,0.50,0.42,0.57
+,Other Late Season,-,£/kg,0.54,0.55,0.56,0.53,0.55,0.44,,,,0.60,0.58,0.60
+,Jonogold – group,1st,£/kg,0.42,0.48,0.59,0.51,,,,,,0.62,0.56,0.52
+,Jonogold – group,2nd,£/kg,0.39,,,,,,,,,0.33,0.33,0.35
+,Jonogold – group,Ave,£/kg,0.41,,,,,,,,,0.60,0.47,0.41
+(new item at the start of 2007),Red,2nd,£/kg,0.32,0.22,0.28,0.35,0.31,,,,0.36,0.28,0.21,0.22
+,Red,Ave,£/kg,0.38,0.36,0.29,0.36,0.40,,,,0.40,0.30,0.30,0.32
+(new item at the start of 2007),Leaf - Loose/bunches,2nd,£/kg,,,,,0.35,0.34,0.32,0.32,0.40,0.38,,
+,Leaf - Loose/bunches,Ave,£/kg,,,,,0.71,0.64,0.64,0.58,0.68,0.70,,
+2009,,Quality,Units,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+Cooking Apples,Bramley’s Seedling,1st,£/kg,0.70,0.67,0.65,0.66,0.71,0.65,0.67,0.63,0.58,0.57,0.56,0.55
+,Bramley’s Seedling,2nd,£/kg,0.47,0.46,0.42,0.44,0.44,0.42,0.42,0.43,0.43,0.40,0.39,0.38
+,Bramley’s Seedling,Ave,£/kg,0.64,0.62,0.59,0.60,0.64,0.57,0.60,0.59,0.56,0.54,0.53,0.53
+Dessert Apples,Cox’s Orange-group,1st,£/kg,0.73,0.83,0.82,0.85,0.64,,,0.91,0.74,0.60,0.59,0.61
+,Cox’s Orange-group,2nd,£/kg,0.48,0.53,0.56,0.51,,,,,0.56,0.41,0.36,0.39
+,Cox’s Orange-group,Ave,£/kg,0.68,0.77,0.77,0.81,,,,,0.72,0.55,0.53,0.56
+,Discovery,1st,£/kg,,,,,,,0.86,0.61,0.53,,,
+,Discovery,2nd,£/kg,,,,,,,,0.38,0.42,,,
+,Discovery,Ave,£/kg,,,,,,,,0.56,0.51,,,
+,Egremont Russet,1st,£/kg,0.77,0.75,0.86,0.78,,,,1.01,0.78,0.64,0.70,0.73
+,Egremont Russet,2nd,£/kg,0.53,0.57,0.61,0.63,,,,,0.54,0.45,0.51,0.50
+,Egremont Russet,Ave,£/kg,0.73,0.73,0.83,0.74,,,,,0.76,0.61,0.68,0.71
+,Spartan,1st,£/kg,,,,,,,,,0.66,0.56,0.53,
+,Spartan,2nd,£/kg,,,,,,,,,,0.46,0.48,
+,Spartan,Ave,£/kg,,,,,,,,,,0.55,0.53,
+,Worcester Pearmain,1st,£/kg,,,,,,,,0.57,0.50,,,
+,Worcester Pearmain,2nd,£/kg,,,,,,,,,0.40,0.37,,
+,Worcester Pearmain,Ave,£/kg,,,,,,,,,0.50,0.37,,
+,Red Pippin,1st,£/kg,,,,,,,,,0.53,,,
+,Red Pippin,2nd,£/kg,,,,,,,,,,,,
+,Red Pippin,Ave,£/kg,,,,,,,,,,,,
+,Gala,1st,£/kg,0.69,0.88,0.76,0.91,0.50,,,,0.62,0.61,0.58,0.52
+,Gala,2nd,£/kg,0.45,0.55,,,,,,,,0.48,0.46,0.38
+,Gala,Ave,£/kg,0.63,0.84,,,,,,,,0.59,0.57,0.50
+,Other Early Season,-,£/kg,,,,,,,,0.59,0.53,0.48,0.44,
+,Other Mid Season,-,£/kg,,,,,,,,,0.51,0.50,0.51,0.54
+,Other Late Season,-,£/kg,0.64,0.67,0.61,0.59,0.56,,,,,0.51,0.50,0.55
+,Jonogold – group,1st,£/kg,,0.60,0.66,0.62,0.58,,,,,0.59,0.48,0.42
+,Jonogold – group,2nd,£/kg,,,,,,,,,,0.46,0.46,
+,Jonogold – group,Ave,£/kg,,,,,,,,,,0.57,0.47,0.42
+(new item at the start of 2007),Red,2nd,£/kg,0.24,0.26,0.28,0.26,0.29,0.26,0.18,0.34,0.35,,,
+,Red,Ave,£/kg,0.33,0.34,0.35,0.33,0.34,0.35,0.34,0.39,0.37,0.32,0.31,0.33
+(new item at the start of 2007),Leaf - Loose/bunches,2nd,£/kg,,,,0.36,0.41,0.45,0.38,0.38,0.37,,,
+,Leaf - Loose/bunches,Ave,£/kg,,,,0.52,0.60,0.55,0.55,0.53,0.49,0.56,0.56,0.49
+2010,,Quality,Units,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+Cooking Apples,Bramley’s Seedling,1st,£/kg,0.59,0.58,0.65,0.66,0.63,0.62,0.62,0.68,0.65,0.59,0.62,0.64
+,Bramley’s Seedling,2nd,£/kg,0.36,0.39,0.40,0.41,0.42,0.46,0.44,0.49,0.47,0.43,0.41,0.44
+,Bramley’s Seedling,Ave,£/kg,0.56,0.53,0.60,0.62,0.59,0.58,0.54,0.62,0.61,0.56,0.57,0.61
+Dessert Apples,Cox’s Orange-group,1st,£/kg,0.70,0.79,0.88,0.80,,,,,0.87,0.63,0.67,0.72
+,Cox’s Orange-group,2nd,£/kg,0.41,0.48,0.51,0.48,,,,,0.55,0.45,0.45,0.46
+,Cox’s Orange-group,Ave,£/kg,0.63,0.71,0.84,0.75,,,,,0.87,0.62,0.64,0.69
+,Discovery,1st,£/kg,,,,,,,,0.72,0.53,,,
+,Discovery,2nd,£/kg,,,,,,,,0.49,0.33,,,
+,Discovery,Ave,£/kg,,,,,,,,0.70,0.50,,,
+,Egremont Russet,1st,£/kg,0.67,0.71,0.79,0.72,0.62,,,,0.85,0.74,0.74,0.74
+,Egremont Russet,2nd,£/kg,0.49,0.45,0.47,0.42,,,,,,0.66,0.56,0.52
+,Egremont Russet,Ave,£/kg,0.66,0.68,0.77,0.72,0.62,,,,0.85,0.74,0.74,0.73
+,Spartan,1st,£/kg,,,,,,,,,,0.62,0.63,0.58
+,Spartan,2nd,£/kg,,,,,,,,,,,0.55,
+,Spartan,Ave,£/kg,,,,,,,,,,0.62,0.63,0.58
+,Worcester Pearmain,1st,£/kg,,,,,,,,,0.56,0.47,0.43,
+,Worcester Pearmain,2nd,£/kg,,,,,,,,,0.22,,,
+,Worcester Pearmain,Ave,£/kg,,,,,,,,,0.52,0.47,0.43,
+,Red Pippin,1st,£/kg,,,,,,,,,0.62,0.49,,
+,Red Pippin,2nd,£/kg,,,,,,,,,,,,
+,Red Pippin,Ave,£/kg,,,,,,,,,0.62,0.49,,
+,Gala,1st,£/kg,0.55,0.67,0.71,0.62,0.57,0.56,,,0.77,0.62,0.60,0.64
+,Gala,2nd,£/kg,0.37,0.47,0.43,0.39,0.37,0.37,,,,0.44,,0.50
+,Gala,Ave,£/kg,0.52,0.65,0.65,0.53,0.50,0.45,,,0.77,0.62,0.60,0.64
+,Other Early Season,-,£/kg,,,,,,,,0.61,0.63,0.61,,
+,Other Mid Season,-,£/kg,0.51,0.57,0.61,,,,,,,0.56,0.58,0.65
+,Other Late Season,-,£/kg,0.54,0.59,0.65,0.58,0.54,0.52,,,,0.77,0.66,0.65
+,Jonogold – group,1st,£/kg,0.43,0.56,0.61,0.55,0.58,0.42,,,,0.56,0.50,0.49
+,Jonogold – group,2nd,£/kg,0.34,,,,,,,,,,,
+,Jonogold – group,Ave,£/kg,0.42,0.56,0.61,0.55,0.58,0.42,,,,0.56,0.50,0.49
+2011,,Quality,Units,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+Cooking Apples,Bramley’s Seedling,1st,£/kg,0.61,0.62,0.64,0.64,0.66,0.68,0.73,0.67,0.61,0.61,0.64,0.63
+,Bramley’s Seedling,2nd,£/kg,0.44,0.46,0.44,0.45,0.48,0.46,0.47,0.49,0.44,0.44,0.42,0.42
+,Bramley’s Seedling,Ave,£/kg,0.59,0.60,0.62,0.61,0.64,0.63,0.66,0.65,0.58,0.58,0.59,0.57
+Dessert Apples,Cox’s Orange-group,1st,£/kg,0.76,0.93,1.00,1.03,,,,1.09,0.76,0.67,0.66,0.72
+,Cox’s Orange-group,2nd,£/kg,0.46,0.56,0.55,0.78,,,,,0.51,0.47,0.43,0.43
+,Cox’s Orange-group,Ave,£/kg,0.71,0.89,0.93,1.01,,,,1.09,0.72,0.65,0.62,0.67
+,Discovery,1st,£/kg,,,,,,,0.89,0.61,,,,
+,Discovery,2nd,£/kg,,,,,,,0.54,0.47,0.44,,,
+,Discovery,Ave,£/kg,,,,,,,0.87,0.60,0.44,,,
+,Egremont Russet,1st,£/kg,0.69,0.80,0.81,1.01,,,,,0.76,0.74,0.74,0.69
+,Egremont Russet,2nd,£/kg,0.47,0.45,0.44,,,,,,0.53,0.51,0.43,0.46
+,Egremont Russet,Ave,£/kg,0.68,0.78,0.80,1.01,,,,,0.75,0.73,0.72,0.68
+,Spartan,1st,£/kg,0.66,,,,,,,,0.77,0.92,0.53,0.58
+,Spartan,2nd,£/kg,,,,,,,,,,0.55,0.55,0.44
+,Spartan,Ave,£/kg,0.66,,,,,,,,0.77,0.90,0.53,0.54
+,Worcester Pearmain,1st,£/kg,,,,,,,,0.69,0.60,,,
+,Worcester Pearmain,2nd,£/kg,,,,,,,,,,,,
+,Worcester Pearmain,Ave,£/kg,,,,,,,,0.69,0.60,,,
+,Red Pippin,1st,£/kg,,,,,,,,,,,,
+,Red Pippin,2nd,£/kg,,,,,,,,,,,,
+,Red Pippin,Ave,£/kg,,,,,,,,,,,,
+,Gala,1st,£/kg,0.67,0.85,0.80,0.79,0.72,,,,0.68,0.64,0.62,0.71
+,Gala,2nd,£/kg,0.50,,0.45,0.74,,,,,0.50,0.40,0.39,0.45
+,Gala,Ave,£/kg,0.67,0.85,0.78,0.78,0.72,,,,0.68,0.62,0.60,0.64
+,Other Early Season,-,£/kg,,,,,,,,0.61,0.54,0.50,0.49,
+,Other Mid Season,-,£/kg,0.61,0.61,0.61,0.76,,,,,,0.63,0.59,0.60
+,Other Late Season,-,£/kg,0.62,0.70,0.69,0.63,0.55,,,,,0.69,0.68,0.67
+,Jonogold – group,1st,£/kg,0.68,0.56,0.53,,,,,,,0.59,0.60,0.52
+,Jonogold – group,2nd,£/kg,,,,,,,,,,0.49,,
+,Jonogold – group,Ave,£/kg,0.68,0.56,0.53,,,,,,,0.59,0.60,0.52
+2012,,Quality,Units,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+Cooking Apples,Bramley’s Seedling,1st,£/kg,0.67,0.66,0.63,0.71,0.74,0.87,1.08,0.94,0.77,0.92,0.97,1.04
+,Bramley’s Seedling,2nd,£/kg,0.43,0.46,0.44,0.47,0.55,0.60,0.54,0.52,0.52,0.53,0.55,0.71
+,Bramley’s Seedling,Ave,£/kg,0.61,0.61,0.59,0.66,0.71,0.84,0.88,0.86,0.75,0.90,0.94,1.01
+Dessert Apples,Cox’s Orange-group,1st,£/kg,0.75,0.79,0.83,0.91,0.86,,,,0.98,0.90,0.81,0.90
+,Cox’s Orange-group,2nd,£/kg,0.44,0.47,0.47,0.49,,,,,0.65,0.50,0.41,0.54
+,Cox’s Orange-group,Ave,£/kg,0.71,0.75,0.80,0.84,0.86,,,,0.98,0.88,0.77,0.87
+,Discovery,1st,£/kg,,,,,,,,0.91,0.67,,,
+,Discovery,2nd,£/kg,,,,,,,,0.67,0.55,,,
+,Discovery,Ave,£/kg,,,,,,,,0.90,0.66,,,
+,Egremont Russet,1st,£/kg,0.75,0.88,0.97,,,,,,0.95,0.87,0.85,0.89
+,Egremont Russet,2nd,£/kg,0.49,,,,,,,,,0.61,0.44,0.66
+,Egremont Russet,Ave,£/kg,0.71,0.88,0.97,,,,,,0.95,0.87,0.84,0.88
+,Spartan,1st,£/kg,,,,,,,,,,1.06,0.86,
+,Spartan,2nd,£/kg,0.40,,,,,,,,,0.51,,
+,Spartan,Ave,£/kg,0.40,,,,,,,,,0.79,0.86,
+,Worcester Pearmain,1st,£/kg,,,,,,,,0.66,0.78,0.65,,
+,Worcester Pearmain,2nd,£/kg,,,,,,,,,0.66,,,
+,Worcester Pearmain,Ave,£/kg,,,,,,,,0.66,0.78,0.65,,
+,Red Pippin,1st,£/kg,,,,,,,,,,0.61,0.69,
+,Red Pippin,2nd,£/kg,,,,,,,,,,0.83,,
+,Red Pippin,Ave,£/kg,,,,,,,,,,0.70,0.69,
+,Gala,1st,£/kg,0.69,0.68,0.73,0.81,0.74,,,,0.79,0.83,0.76,0.81
+,Gala,2nd,£/kg,0.40,0.53,0.60,0.66,,,,,,0.64,0.42,0.49
+,Gala,Ave,£/kg,0.68,0.68,0.73,0.81,0.74,,,,0.79,0.81,0.72,0.79
+,Other Early Season,-,£/kg,,,,0.93,,,,,0.73,0.81,0.82,
+,Other Mid Season,-,£/kg,0.59,0.53,0.77,0.72,,,,,,0.60,0.63,0.71
+,Other Late Season,-,£/kg,0.65,0.67,0.63,0.82,0.89,,,,,0.77,0.78,0.73
+,Jonogold – group,1st,£/kg,,0.53,,,,,,,,0.78,0.73,0.66
+,Jonogold – group,2nd,£/kg,,0.49,,,,,,,,0.63,,
+,Jonogold – group,Ave,£/kg,,0.50,,,,,,,,0.77,0.73,0.66
+2013,,Quality,Units,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+Cooking Apples,Bramley’s Seedling,1st,£/kg,0.99,1.01,1.04,1.05,1.11,1.27,1.26,1.38,0.84,0.67,0.64,0.67
+,Bramley’s Seedling,2nd,£/kg,0.63,0.64,0.62,0.59,0.71,0.72,0.84,0.71,0.58,0.48,0.47,0.44
+,Bramley’s Seedling,Ave,£/kg,0.95,0.98,1.01,1.02,1.07,1.12,1.23,1.31,0.80,0.64,0.61,0.62
+Dessert Apples,Cox’s Orange-group,1st,£/kg,0.90,0.96,1.05,0.96,,,,,1.04,0.76,0.70,0.69
+,Cox’s Orange-group,2nd,£/kg,0.54,0.57,0.62,0.62,,,,,,0.49,0.47,0.44
+,Cox’s Orange-group,Ave,£/kg,0.86,0.92,1.01,0.89,,,,,1.04,0.72,0.66,0.64
+,Discovery,1st,£/kg,,,,,,,,1.00,0.73,0.46,,
+,Discovery,2nd,£/kg,,,,,,,,,0.47,0.36,,
+,Discovery,Ave,£/kg,,,,,,,,1.00,0.69,0.44,,
+,Egremont Russet,1st,£/kg,0.82,0.88,0.96,,,,,,1.00,0.76,0.70,0.71
+,Egremont Russet,2nd,£/kg,0.57,0.56,0.64,,,,,,,0.57,0.48,0.52
+,Egremont Russet,Ave,£/kg,0.79,0.86,0.93,,,,,,1.00,0.75,0.67,0.69
+,Spartan,1st,£/kg,0.61,,,,,,,,,0.79,0.76,0.58
+,Spartan,2nd,£/kg,,,,,,,,,,0.46,0.46,0.47
+,Spartan,Ave,£/kg,0.61,,,,,,,,,0.78,0.75,0.57
+,Worcester Pearmain,1st,£/kg,,,,,,,,,0.76,0.60,0.47,
+,Worcester Pearmain,2nd,£/kg,,,,,,,,,0.39,0.46,,
+,Worcester Pearmain,Ave,£/kg,,,,,,,,,0.74,0.58,0.47,
+,Red Pippin,1st,£/kg,,,,,,,,,,,0.66,
+,Red Pippin,2nd,£/kg,,,,,,,,,,,,
+,Red Pippin,Ave,£/kg,,,,,,,,,,,0.66,
+,Gala,1st,£/kg,0.81,0.91,0.69,0.82,0.77,,,,1.09,0.68,0.67,0.65
+,Gala,2nd,£/kg,0.46,0.72,,,,,,,,0.44,0.44,0.42
+,Gala,Ave,£/kg,0.80,0.91,0.69,0.82,0.77,,,,1.09,0.66,0.63,0.61
+,Other Early Season,-,£/kg,,,,,,,,0.54,0.61,0.60,0.48,
+,Other Mid Season,-,£/kg,0.69,0.73,0.61,,,,,,0.61,0.62,0.71,0.71
+,Other Late Season,-,£/kg,0.75,0.80,0.83,0.77,,,,,,0.48,0.69,0.71
+,Jonogold – group,1st,£/kg,,,,,,,,,,0.68,0.61,0.50
+,Jonogold – group,2nd,£/kg,,,,,,,,,,,,
+,Jonogold – group,Ave,£/kg,,,,,,,,,,0.68,0.61,0.50
+2014,,Quality,Units,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+Cooking Apples,Bramley’s Seedling,1st,£/kg,0.74,0.72,0.74,0.75,0.77,0.72,0.74,0.63,0.58,0.58,0.59,0.63
+,Bramley’s Seedling,2nd,£/kg,0.47,0.46,0.49,0.46,0.47,0.48,0.47,0.44,0.42,0.39,0.41,0.41
+,Bramley’s Seedling,Ave,£/kg,0.68,0.67,0.70,0.70,0.70,0.66,0.67,0.61,0.56,0.55,0.56,0.59
+Dessert Apples,Cox’s Orange-group,1st,£/kg,0.76,0.73,0.89,0.85,0.94,,,1.03,0.75,0.66,0.66,0.68
+,Cox’s Orange-group,2nd,£/kg,0.46,0.48,0.54,0.51,0.55,,,,0.44,0.41,0.41,0.45
+,Cox’s Orange-group,Ave,£/kg,0.70,0.68,0.85,0.80,0.91,,,1.03,0.74,0.64,0.62,0.65
+,Discovery,1st,£/kg,,,,,,,,0.62,0.50,0.54,,
+,Discovery,2nd,£/kg,,,,,,,,0.46,0.40,,,
+,Discovery,Ave,£/kg,,,,,,,,0.61,0.49,0.54,,
+,Egremont Russet,1st,£/kg,0.71,0.72,0.81,0.83,0.78,,,0.88,0.78,0.65,0.71,0.71
+,Egremont Russet,2nd,£/kg,0.46,0.51,0.52,0.61,0.59,,,1.07,0.50,0.44,0.45,0.45
+,Egremont Russet,Ave,£/kg,0.68,0.70,0.77,0.81,0.77,,,0.93,0.76,0.62,0.69,0.69
+,Spartan,1st,£/kg,0.65,0.65,,,,,,,0.84,0.63,0.59,0.59
+,Spartan,2nd,£/kg,0.30,0.51,,,,,,,,0.33,0.61,0.42
+,Spartan,Ave,£/kg,0.62,0.64,,,,,,,0.84,0.62,0.60,0.59
+,Worcester Pearmain,1st,£/kg,,,,,,,,0.84,0.66,0.50,0.49,
+,Worcester Pearmain,2nd,£/kg,,,,,,,,,,,,
+,Worcester Pearmain,Ave,£/kg,,,,,,,,0.84,0.66,0.50,0.49,
+,Red Pippin,1st,£/kg,0.53,,,,,,,,,,,
+,Red Pippin,2nd,£/kg,,,,,,,,,,,,
+,Red Pippin,Ave,£/kg,0.53,,,,,,,,,,,
+,Braeburn,1st,£/kg,,,0.71,0.63,0.81,,,,,0.63,0.65,0.62
+,Braeburn,2nd,£/kg,,,0.55,0.52,0.55,,,,,0.44,0.47,0.51
+,Braeburn,Ave,£/kg,,,0.70,0.63,0.72,,,,,0.63,0.65,0.62
+,Gala,1st,£/kg,0.69,0.72,0.80,0.79,0.74,,,,0.69,0.63,0.67,0.64
+,Gala,2nd,£/kg,0.15,0.45,0.56,0.50,0.50,,,,,0.44,0.49,0.49
+,Gala,Ave,£/kg,0.69,0.70,0.79,0.75,0.72,,,,0.69,0.63,0.66,0.63
+,Other Early Season,-,£/kg,,,,,,,,0.71,0.59,0.47,0.55,
+,Other Mid Season,-,£/kg,0.70,0.77,,,,,,,,0.56,0.52,0.49
+,Other Late Season,-,£/kg,0.74,0.67,0.67,0.71,0.63,,,,,0.54,0.63,0.60
+,Jonogold – group,1st,£/kg,,0.51,,,,,,,,0.56,0.58,0.58
+,Jonogold – group,2nd,£/kg,,,,,,,,,,,0.46,
+,Jonogold – group,Ave,£/kg,,0.51,,,,,,,,0.56,0.57,0.58
+2015,,Quality,Units,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+Cooking Apples,Bramley’s Seedling,1st,£/kg,0.65,0.63,0.63,0.64,0.66,,,,,,,
+,Bramley’s Seedling,2nd,£/kg,0.43,0.47,0.46,0.44,0.44,,,,,,,
+,Bramley’s Seedling,Ave,£/kg,0.61,0.61,0.60,0.60,0.61,,,,,,,
+Dessert Apples,Cox’s Orange-group,1st,£/kg,0.71,0.79,0.93,,,,,,,,,
+,Cox’s Orange-group,2nd,£/kg,0.47,0.56,0.65,,,,,,,,,
+,Cox’s Orange-group,Ave,£/kg,0.69,0.78,0.89,1.00,,,,,,,,
+,Discovery,1st,£/kg,,,,,,,,,,,,
+,Discovery,2nd,£/kg,,,,,,,,,,,,
+,Discovery,Ave,£/kg,,,,,,,,,,,,
+,Egremont Russet,1st,£/kg,0.73,0.78,0.75,,,,,,,,,
+,Egremont Russet,2nd,£/kg,0.53,0.58,0.57,,,,,,,,,
+,Egremont Russet,Ave,£/kg,0.73,0.77,0.74,,,,,,,,,
+,Spartan,1st,£/kg,0.54,,,,,,,,,,,
+,Spartan,2nd,£/kg,,,,,,,,,,,,
+,Spartan,Ave,£/kg,0.54,,,,,,,,,,,
+,Worcester Pearmain,1st,£/kg,,,,,,,,,,,,
+,Worcester Pearmain,2nd,£/kg,,,,,,,,,,,,
+,Worcester Pearmain,Ave,£/kg,,,,,,,,,,,,
+,Braeburn,1st,£/kg,0.64,0.63,0.61,0.61,0.63,,,,,,,
+,Braeburn,2nd,£/kg,0.45,0.45,0.44,0.47,0.46,,,,,,,
+,Braeburn,Ave,£/kg,0.62,0.61,0.59,0.59,0.62,,,,,,,
+,Gala,1st,£/kg,0.74,0.70,0.67,0.70,0.66,,,,,,,
+,Gala,2nd,£/kg,0.48,0.52,0.48,0.50,,,,,,,,
+,Gala,Ave,£/kg,0.72,0.69,0.64,0.68,0.66,,,,,,,
+,Other Early Season,-,£/kg,,,,,,,,,,,,
+,Other Mid Season,-,£/kg,,,,,,,,,,,,
+,Other Late Season,-,£/kg,0.66,0.59,0.57,0.63,0.64,,,,,,,
+,Jonogold – group,1st,£/kg,0.58,,,0.71,0.68,,,,,,,
+,Jonogold – group,2nd,£/kg,0.44,,,,,,,,,,,
+,Jonogold – group,Ave,£/kg,0.58,,,0.71,0.68,,,,,,,
